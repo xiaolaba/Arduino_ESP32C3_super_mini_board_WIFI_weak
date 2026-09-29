@@ -23,6 +23,7 @@ ESP32-super-mini-wifi_antenna_modification.jpg
 
 
 ### source code for testing  
+[ESP32C3S3_RSSI_boost_testing.ino](ESP32C3S3_RSSI_boost_testing.ino)  
 ```
 /// ESP32-C3/S3_super-mini
 /// 4M flash, 2M PSRAM(S3 only)
