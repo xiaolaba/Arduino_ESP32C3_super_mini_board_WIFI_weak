@@ -1,0 +1,9 @@
+device_info.txt
+ESP32-C3-spuer-mini_schematic.jpg
+ESP32-C3_JTAG_pin.JPG
+ESP32-super-mini-wifi_antenna_modification.jpg
+ESP32-super-mini-wifi_board.jpg
+ESP32-super-mini-wifi_log.jpg
+ESP32-super-mini-wifi_testing.jpg
+files.txt
+list.bat
