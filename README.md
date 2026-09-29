@@ -11,7 +11,7 @@ ESP32-super-mini-wifi_antenna_modification.jpg
 ![ESP32-C3_JTAG_pin.JPG](ESP32-C3_JTAG_pin.JPG)  
 
 ### WiFi 弱雞成因  
-#ESP32-C3 super mini 
+#ESP32-C3 super mini  
 #ESP32-H2 super mini (BLE only, no WIFI)  
 #ESP32-S3 super mini  
 與其說是盜版, 倒不如說是抄版. 單純用 MCU 的功能不考慮 WIFI / BLE 的話是可以選的, 畢竟就10元不到的人民幣價格, 那隻紅色的陶瓷天線 C3 也是"絕配", 抄襲得不倫不類. 非常多玩家發現了 BLE/WIFI 訊號十分差, 原因也清楚, 大部分的無線電能量發射不出去, 反射回到小板板把自己熱到不要不要.  
