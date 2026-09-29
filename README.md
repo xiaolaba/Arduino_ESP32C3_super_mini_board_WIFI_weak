@@ -6,6 +6,9 @@ ESP32-super-mini-wifi_antenna_modification.jpg
 ### ESP32C3 super mini board schematic  
 ![ESP32-C3-spuer-mini_schematic.jpg](ESP32-C3-spuer-mini_schematic.jpg)  
 
+### read mode
+https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32c3/schematic-checklist.html
+
 
 ### ESP32-C3_JTAG_pin.JPG  
 ![ESP32-C3_JTAG_pin.JPG](ESP32-C3_JTAG_pin.JPG)  
